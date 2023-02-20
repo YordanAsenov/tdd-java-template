@@ -4,7 +4,7 @@ Java 17 TDD Template
 
 Ready-to-use TDD template for Code Katas / Coding Dojos
 
-In this repo I used
+In this repo I use
 ===================
 
 * `Maven <https://maven.apache.org/>`__
@@ -13,6 +13,7 @@ In this repo I used
 * `Jacoco <https://www.jacoco.org/jacoco>`__
 * `Pitest <https://pitest.org>`__
 * `Lombok <https://projectlombok.org>`__
+* `Mockito <https://site.mockito.org/>`__
 
 License
 =======
