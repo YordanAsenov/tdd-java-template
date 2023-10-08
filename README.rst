@@ -1,5 +1,5 @@
 =============
-Java 20 TDD Template
+Java 21 TDD Template
 =============
 
 Ready-to-use TDD template for Code Katas / Coding Dojos
@@ -8,7 +8,7 @@ In this repo I use
 ===================
 
 * `Maven <https://maven.apache.org/>`__
-* `Java 20 <https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html>`__
+* `Java 21 <https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html>`__
 * `Junit <https://junit.org/junit5>`__
 * `Jacoco <https://www.jacoco.org/jacoco>`__
 * `Pitest <https://pitest.org>`__
